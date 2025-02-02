@@ -14,7 +14,7 @@
     function equal() {
     button = eval(button);
     //inputValue.value = button;
-    inputValue.value = 'mailiw nak kanyamon 🥺';
+    inputValue.value = 'I miss you po! 🥺';
 
     }
 
